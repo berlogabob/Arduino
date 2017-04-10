@@ -1,3 +1,5 @@
+# jmhgfkjhgfk
+
 #define pin_buzzler  3
 #define pin_btn1 2
 boolean buttonWasUp = true;  // была ли кнопка отпущена?
